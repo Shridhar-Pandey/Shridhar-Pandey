@@ -1,12 +1,9 @@
 ### Hi there 👋
+***I'm Shridhar Pandey*** 
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Shridhar-Pandey/count.svg" />
-</p>
 
 ## About Me
-I'm a computer science student at VIT BHOPAL with a strong interest in machine learning and artificial intelligence. I've finished a number of projects utilising Python, TensorFlow, Keras, and OpenCV to develop tools for picture categorization and facial recognition. I am fluent in several programming languages including Python, C++, and Java. I'm hoping for a brighter future where I can use my knowledge of AI and gain insight from more seasoned experts.
+I'm a VIT Bhopal cyber security student with a passion for mathematics and an interest in management. I've worked on projects in a variety of fields, including cyber security, networking, software development, hardware, and many more, mainly with Python and its built-in functions. I enjoy learning new skills and technologies that will assist me in solving real-world challenges and expanding my knowledge. I’m looking for an opportunity to work on challenging and diverse projects that can help me grow as a professional and a leader.
 
 Reach me at: 
 
@@ -16,6 +13,10 @@ shridhar.pandey2020@vitbhopal.com
 
 +91 9368750656
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Shridhar-Pandey/count.svg" />
+</p>
 
 ## 🌐 Socials
 
@@ -30,7 +31,11 @@ shridhar.pandey2020@vitbhopal.com
 
 # :book: Languages and Tools
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="Cplusplus logo"  width="50" height ="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="JAVA logo"  width="50" height ="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="Canva logo"  width="50" height ="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode logo"  width="50" height ="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQl logo"  width="50" height ="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R logo"  width="50" height ="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="Cplusplus logo"  width="50" height ="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="JAVA logo"  width="50" height ="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="Canva logo"  width="50" height ="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode logo"  width="50" height ="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQl logo"  width="50" height ="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R logo"  width="50" height ="50" /> 
 
 ---
 
