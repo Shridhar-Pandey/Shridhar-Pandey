@@ -31,11 +31,7 @@ shridhar.pandey2020@vitbhopal.com
 
 # :book: Languages and Tools
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="Cplusplus logo"  width="50" height ="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="JAVA logo"  width="50" height ="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="Canva logo"  width="50" height ="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode logo"  width="50" height ="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQl logo"  width="50" height ="50" /> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R logo"  width="50" height ="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python logo"  width="50" height ="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="Cplusplus logo"  width="50" height ="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="JAVA logo"  width="50" height ="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="Canva logo"  width="50" height ="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode logo"  width="50" height ="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQl logo"  width="50" height ="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="Matlab logo"  width="50" height ="50" />
 
 ---
 
