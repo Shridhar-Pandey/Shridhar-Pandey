@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-# Hey there :wave:
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Shridhar-Pandey/count.svg" />
@@ -12,7 +10,11 @@ I'm a computer science student at VIT BHOPAL with a strong interest in machine l
 
 Reach me at: 
 
-himanshu05032003@gmail.com
+pandeyboss766@gmail.com
+
+shridhar.pandey2020@vitbhopal.com
+
++91 9368750656
 
 
 ## 🌐 Socials
@@ -48,13 +50,14 @@ himanshu05032003@gmail.com
 ---
 
 ### :link: Quick Links
-LinkedIn : https://www.linkedin.com/in/shridhar-pandey
+HackerRank: 
+https://www.hackerrank.com/shridhar_pandey1
 
 Leetcode: 
 https://leetcode.com/shridhar_pandey/
 
-HackerRank: 
-https://www.hackerrank.com/himanshu05032003
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=shridhar_pandey&theme=dark)
+
 
 ---
 <!--
