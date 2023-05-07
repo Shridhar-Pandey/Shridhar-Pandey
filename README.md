@@ -13,10 +13,6 @@ shridhar.pandey2020@vitbhopal.com
 
 +91 9368750656
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Shridhar-Pandey/count.svg" />
-</p>
 
 ## 🌐 Socials
 
