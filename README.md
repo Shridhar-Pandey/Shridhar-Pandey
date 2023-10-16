@@ -1,6 +1,22 @@
 ### Hi there 👋
 ***I'm Shridhar Pandey*** 
 
+<div align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+</div>
 
 ## About Me
 I'm a VIT Bhopal cyber security student with a passion for mathematics and an interest in management. I've worked on projects in a variety of fields, including cyber security, networking, software development, hardware, and many more, mainly with Python and its built-in functions. I enjoy learning new skills and technologies that will assist me in solving real-world challenges and expanding my knowledge. I’m looking for an opportunity to work on challenging and diverse projects that can help me grow as a professional and a leader.
