@@ -1,6 +1,6 @@
 ### Hi there 👋
 ***I'm Shridhar Pandey*** 
-
+![Profile Views](https://komarev.com/ghpvc/?username=Shridhar-Pandey-git&color=green)
 <div align="center">
 <picture>
   <source
@@ -71,7 +71,7 @@ https://leetcode.com/shridhar_pandey/
 
 ![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=shridhar_pandey&theme=dark)
 
-
+Thank you for visiting my GitHub profile! Have a great day!!
 ---
 <!--
 **Shridhar-Pandey/Shridhar-Pandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
