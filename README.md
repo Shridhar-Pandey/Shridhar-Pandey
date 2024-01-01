@@ -25,6 +25,8 @@ Reach me at:
 
 pandeyboss766@gmail.com
 
+shridharpandey.work@gmail.com
+
 shridhar.pandey2020@vitbhopal.com
 
 +91 9368750656
