@@ -25,7 +25,7 @@ Reach me at:
 
 pandeyboss766@gmail.com
 
-shridharpandey.work@gmail.com
+shridharpandey667@gmail.com
 
 shridhar.pandey2020@vitbhopal.com
 
